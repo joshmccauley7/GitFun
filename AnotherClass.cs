@@ -7,6 +7,8 @@ namespace GitFun
     internal class AnotherClass
     {
         public void DoSomething()
-        { }
+        {
+            Console.WriteLine("proud of you");
+        }
     }
 }
